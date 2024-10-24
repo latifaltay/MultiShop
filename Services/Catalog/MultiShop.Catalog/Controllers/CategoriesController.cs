@@ -7,7 +7,7 @@ namespace MultiShop.Catalog.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoriesController(CategoryService _categoryService) : ControllerBase
+    public class CategoriesController(ICategoryService _categoryService) : ControllerBase
     {
         [HttpGet]
         public async Task<IActionResult> CategoryList() 
@@ -19,7 +19,7 @@ namespace MultiShop.Catalog.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCategoryById(string id) 
         {
-            var values = _categoryService.GetByIdCategoryAsync(id);
+            var values = await _categoryService.GetByIdCategoryAsync(id);
             return Ok(values);
         }
 
