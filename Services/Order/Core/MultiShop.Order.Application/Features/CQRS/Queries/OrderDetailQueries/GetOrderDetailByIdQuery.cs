@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MultiShop.Order.Application.Features.CQRS.Queries.OrderDetailQueries
 {
-    public class GetOrderDetailQuery(int id)
+    public class GetOrderDetailByIdQuery(int id)
     {
         public int Id { get; set; } = id;
     }
