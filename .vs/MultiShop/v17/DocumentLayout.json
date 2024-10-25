@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE893D09-A97F-4B95-B704-DB9E04773960}|Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\order\\core\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE893D09-A97F-4B95-B704-DB9E04773960}|Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\core\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\eleydev\\desktop\\multishop\\identityserver\\multishop.identityserver\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\eleydev\\desktop\\multishop\\identityserver\\multishop.identityserver\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241025032210_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241025032210_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\eleydev\\desktop\\multishop\\identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\eleydev\\desktop\\multishop\\identityserver\\multishop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\eleydev\\desktop\\multishop\\identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6283BC-2BBD-438F-870B-6C332FB66375}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderContext.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACaAAAAAAAAAA==",
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Controllers\\RegistersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:53:38.952Z",
+              "WhenOpened": "2024-10-25T03:26:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Dtos\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:25:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241025032210_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241025032210_mig1.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241025032210_mig1.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241025032210_mig1.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241025032210_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:22:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA9wBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:19:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T03:18:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:17:47.278Z",
               "EditorCaption": ""
             }
           ]
