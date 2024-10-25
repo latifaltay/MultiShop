@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4740A6EC-11B2-4A59-B092-7C0C8E2CC2E7}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\order\\presentation\\multishop.order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4740A6EC-11B2-4A59-B092-7C0C8E2CC2E7}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4740A6EC-11B2-4A59-B092-7C0C8E2CC2E7}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\order\\presentation\\multishop.order.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4740A6EC-11B2-4A59-B092-7C0C8E2CC2E7}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F3FB09-C3DD-491F-BFC0-27FA495E689B}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F3FB09-C3DD-491F-BFC0-27FA495E689B}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4740A6EC-11B2-4A59-B092-7C0C8E2CC2E7}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\order\\presentation\\multishop.order.webapi\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4740A6EC-11B2-4A59-B092-7C0C8E2CC2E7}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE893D09-A97F-4B95-B704-DB9E04773960}|Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\order\\core\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE893D09-A97F-4B95-B704-DB9E04773960}|Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\core\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:28:43.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetOrderDetailQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:27:50.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:26:49.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddressesController.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:25:21.651Z",
+              "WhenOpened": "2024-10-25T00:53:38.952Z",
               "EditorCaption": ""
             }
           ]
