@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241026020958_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241026020958_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\concrete\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\concrete\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargooperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargooperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C36AADB-9E12-4388-85C2-8880FE2224E2}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\eleydev\\desktop\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D940FE9A-8366-4CC5-9ED9-9DBB8D916AA0}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241026020958_mig1.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241026020958_mig1.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241026020958_mig1.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241026020958_mig1.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241026020958_mig1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EfCargoOperationDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:09:58.679Z",
+              "WhenOpened": "2024-10-26T02:34:08.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CargoContext.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Title": "EfCargoDetailDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T01:56:25.72Z",
+              "WhenOpened": "2024-10-26T02:33:17.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CargoOperation.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Title": "EfCargoCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T01:54:59.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CargoCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T01:50:58.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CargoCompany.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T01:49:48.042Z",
+              "WhenOpened": "2024-10-26T02:31:44.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CargoDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Title": "EfCargoCompanyDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T01:47:39.054Z",
+              "WhenOpened": "2024-10-26T02:28:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:20:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICargoOperationDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:19:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICargoDetailDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:18:48.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICargoCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:18:16.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICargoCompanyDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:17:30.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:15:41.598Z",
               "EditorCaption": ""
             }
           ]
